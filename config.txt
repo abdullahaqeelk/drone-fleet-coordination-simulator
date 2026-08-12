@@ -1,0 +1,7 @@
+numDrones=5
+timeStep=0.1
+width=100
+height=100
+mass=1.2
+kd=0.1
+kp=1.5
